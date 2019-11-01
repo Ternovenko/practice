@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+.gridTitle{
+    font-size: 1.6em;
+    font-weight: 700;
+    background-color: #daf3a7;
+}
+
+.gridItem{
+    font-size: 1.1em;
+    background-color: #dcfef0;
+}
